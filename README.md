@@ -1,3 +1,4 @@
 # realtimelyrics
 Get in real-time the latest Genius lyrics for the song you are listening to on Spotify 🎶\
-Find it [here](realtimelyrics.herokuapp.com)
+*Website is accessible [here](realtimelyrics.herokuapp.com)!*\
+(Only for whitelisted Spotify account emails)
