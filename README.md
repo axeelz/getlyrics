@@ -4,4 +4,4 @@ Get in real-time the latest Genius lyrics for the song you are listening to on S
 
 - Website is accessible [here](https://realtimelyrics.herokuapp.com)!
 
-(Only for whitelisted Spotify account emails)
+(Only for Spotify accounts whitelisted by me)
