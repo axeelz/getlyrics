@@ -5,10 +5,6 @@ Obtenez en temps réel les dernières paroles Genius.com de la chanson que vous 
 - utilise l'API de Spotify, le module spotipy, lyricsgenius et beaker pour le fonctionnement
 - utilise le module colorthief pour récupérer la couleur dominante de la pochette d'album et l'utiliser comme couleur de fond
 
-### Le site est disponible [ici](https://realtimelyrics.herokuapp.com) 🔗
-
-> Seulement pour les comptes Spotify à qui j'ai manuellement donné l'accès (limitation de l'API Spotify)
-
 ## Vue d'ensemble
 
 ### Ordinateur
